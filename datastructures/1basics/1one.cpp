@@ -7,6 +7,8 @@ struct one
 	int breadth=10;
 };
 
+// dscsk
+
 
 int main()
 {
